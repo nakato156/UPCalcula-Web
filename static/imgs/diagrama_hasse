@@ -1,0 +1,15 @@
+digraph {
+	3
+	6
+	t
+	1
+	2
+	6 -> 1 [arrowhead=none]
+	3 -> t [arrowhead=none]
+	6 -> 2 [arrowhead=none]
+	t -> 1 [arrowhead=none]
+	3 -> 6 [arrowhead=none]
+	layout=dot
+	rankdir=BT
+	edge [style=solid]
+}

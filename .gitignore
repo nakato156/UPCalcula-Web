@@ -1,0 +1,8 @@
+env/
+dist
+__pycache__
+build/
+.env
+*.spec
+diagrama
+diagrama.png
